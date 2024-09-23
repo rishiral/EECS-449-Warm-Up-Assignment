@@ -1,0 +1,5 @@
+1. The COMMENT state is for responding to prompts that are not questions, such as "I have a soccer match tomorrow".
+
+2. The CommentChat node responds to a comment prompt with words of encouragement, such as saying "Good luck!".
+
+3. The chatbot will route to the new chat model by taking in the user message, context, and considering how its role is to give words of encouragement. The prompt is not a question.
